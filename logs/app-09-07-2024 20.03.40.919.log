@@ -1,0 +1,129 @@
+2024-07-09 20:03:41,369 INFO c.i.l.TestListeners [TestNG-tests-2] ==========================================================
+2024-07-09 20:03:41,369 INFO c.i.l.TestListeners [TestNG-tests-1] ==========================================================
+2024-07-09 20:03:41,369 INFO c.i.l.TestListeners [TestNG-tests-4] ==========================================================
+2024-07-09 20:03:41,369 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:03:41,379 INFO c.i.l.TestListeners [TestNG-tests-3] Test TestThirdUI started
+2024-07-09 20:03:41,379 INFO c.i.l.TestListeners [TestNG-tests-1] Test TestFirstUI started
+2024-07-09 20:03:41,379 INFO c.i.l.TestListeners [TestNG-tests-2] Test TestSecondUI started
+2024-07-09 20:03:41,379 INFO c.i.l.TestListeners [TestNG-tests-4] Test TestFourthUI started
+2024-07-09 20:03:41,386 INFO c.i.l.TestListeners [TestNG-tests-1] ==========================================================
+2024-07-09 20:03:41,386 INFO c.i.l.TestListeners [TestNG-tests-2] ==========================================================
+2024-07-09 20:03:41,387 INFO c.i.l.TestListeners [TestNG-tests-4] ==========================================================
+2024-07-09 20:03:41,387 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:04:04,712 INFO c.i.l.ElementListenersActions [TestNG-tests-2] Find element By.xpath: //*[@name="search"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]}
+2024-07-09 20:04:04,748 INFO c.i.l.ElementListenersActions [TestNG-tests-4] Find element By.xpath: //a[@id="account_link"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //a[@id="account_link"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //a[@id="account_link"]]}
+2024-07-09 20:04:04,789 INFO c.i.l.ElementListenersActions [TestNG-tests-3] Find element By.xpath: //a[@id="account_link"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //a[@id="account_link"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //a[@id="account_link"]]}
+2024-07-09 20:04:06,271 INFO c.i.l.ElementListenersActions [TestNG-tests-1] Find element By.xpath: //*[@name="search"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]}
+2024-07-09 20:04:06,289 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:04:06,289 INFO c.i.l.TestListeners [TestNG-tests-3] Test TestThirdUI started
+2024-07-09 20:04:06,290 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:04:06,307 INFO c.i.l.ElementListenersActions [TestNG-tests-2] Find element By.xpath: //*[@name="search"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]}
+2024-07-09 20:04:06,386 INFO c.i.l.ElementListenersActions [TestNG-tests-4] Find element By.xpath: //input[@class="form-control"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //input[@class="form-control"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //input[@class="form-control"]]}
+2024-07-09 20:04:06,516 INFO c.i.l.ElementListenersActions [TestNG-tests-2] Click to [[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]
+2024-07-09 20:04:06,569 INFO c.i.l.ElementListenersActions [TestNG-tests-1] Find element By.xpath: //*[@name="search"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]}
+2024-07-09 20:04:06,597 INFO c.i.l.ElementListenersActions [TestNG-tests-2] Find element By.xpath: //*[@name="search"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]}
+2024-07-09 20:04:09,293 INFO c.i.l.TestListeners [TestNG-tests-1] ==========================================================
+2024-07-09 20:04:09,294 INFO c.i.l.TestListeners [TestNG-tests-1] Test TestFirstUI started
+2024-07-09 20:04:09,294 INFO c.i.l.TestListeners [TestNG-tests-1] ==========================================================
+2024-07-09 20:04:14,346 INFO c.i.l.TestListeners [TestNG-tests-4] ==========================================================
+2024-07-09 20:04:14,347 INFO c.i.l.TestListeners [TestNG-tests-4] Test TestFourthUI started
+2024-07-09 20:04:14,348 INFO c.i.l.TestListeners [TestNG-tests-4] ==========================================================
+2024-07-09 20:04:14,356 INFO c.i.l.TestListeners [TestNG-tests-2] ==========================================================
+2024-07-09 20:04:14,356 INFO c.i.l.TestListeners [TestNG-tests-2] Test TestSecondUI started
+2024-07-09 20:04:14,358 INFO c.i.l.TestListeners [TestNG-tests-2] ==========================================================
+2024-07-09 20:04:14,411 INFO c.i.l.ElementListenersActions [TestNG-tests-3] Find element By.xpath: //a[@id="account_link"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //a[@id="account_link"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //a[@id="account_link"]]}
+2024-07-09 20:04:17,221 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:04:17,221 INFO c.i.l.TestListeners [TestNG-tests-3] Test TestThirdUI started
+2024-07-09 20:04:17,222 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:04:28,464 INFO c.i.l.ElementListenersActions [TestNG-tests-1] Find element By.xpath: //*[@name="search"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]}
+2024-07-09 20:04:28,637 INFO c.i.l.ElementListenersActions [TestNG-tests-4] Find element By.xpath: //a[@id="account_link"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //a[@id="account_link"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //a[@id="account_link"]]}
+2024-07-09 20:04:28,807 INFO c.i.l.ElementListenersActions [TestNG-tests-2] Find element By.xpath: //*[@name="search"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]}
+2024-07-09 20:04:28,831 INFO c.i.l.ElementListenersActions [TestNG-tests-3] Find element By.xpath: //a[@id="account_link"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //a[@id="account_link"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //a[@id="account_link"]]}
+2024-07-09 20:04:30,566 INFO c.i.l.TestListeners [TestNG-tests-2] ==========================================================
+2024-07-09 20:04:30,566 INFO c.i.l.TestListeners [TestNG-tests-2] Test TestSecondUI started
+2024-07-09 20:04:30,567 INFO c.i.l.TestListeners [TestNG-tests-2] ==========================================================
+2024-07-09 20:04:30,568 INFO c.i.l.ElementListenersActions [TestNG-tests-1] Find element By.xpath: //*[@name="search"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]}
+2024-07-09 20:04:30,577 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:04:30,578 INFO c.i.l.TestListeners [TestNG-tests-3] Test TestThirdUI started
+2024-07-09 20:04:30,578 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:04:30,695 INFO c.i.l.ElementListenersActions [TestNG-tests-1] Click to [[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]
+2024-07-09 20:04:30,746 INFO c.i.l.ElementListenersActions [TestNG-tests-4] Find element By.xpath: //input[@class="form-control"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //input[@class="form-control"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //input[@class="form-control"]]}
+2024-07-09 20:04:30,771 INFO c.i.l.ElementListenersActions [TestNG-tests-1] Find element By.xpath: //*[@name="search"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]}
+2024-07-09 20:04:36,937 INFO c.i.l.TestListeners [TestNG-tests-4] ==========================================================
+2024-07-09 20:04:36,937 INFO c.i.l.TestListeners [TestNG-tests-4] Test TestFourthUI started
+2024-07-09 20:04:36,938 INFO c.i.l.TestListeners [TestNG-tests-4] ==========================================================
+2024-07-09 20:04:36,946 INFO c.i.l.TestListeners [TestNG-tests-1] ==========================================================
+2024-07-09 20:04:36,946 INFO c.i.l.TestListeners [TestNG-tests-1] Test TestFirstUI started
+2024-07-09 20:04:36,947 INFO c.i.l.TestListeners [TestNG-tests-1] ==========================================================
+2024-07-09 20:04:37,013 INFO c.i.l.ElementListenersActions [TestNG-tests-3] Find element By.xpath: //a[@id="account_link"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //a[@id="account_link"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //a[@id="account_link"]]}
+2024-07-09 20:04:37,036 INFO c.i.l.ElementListenersActions [TestNG-tests-2] Find element By.xpath: //*[@name="search"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]}
+2024-07-09 20:04:44,312 INFO c.i.l.TestListeners [TestNG-tests-2] ==========================================================
+2024-07-09 20:04:44,313 INFO c.i.l.TestListeners [TestNG-tests-2] Test TestSecondUI started
+2024-07-09 20:04:44,313 INFO c.i.l.TestListeners [TestNG-tests-2] ==========================================================
+2024-07-09 20:04:51,349 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:04:51,349 INFO c.i.l.TestListeners [TestNG-tests-3] Test TestThirdUI started
+2024-07-09 20:04:51,349 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:04:51,380 INFO c.i.l.ElementListenersActions [TestNG-tests-4] Find element By.xpath: //a[@id="account_link"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //a[@id="account_link"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //a[@id="account_link"]]}
+2024-07-09 20:04:51,399 INFO c.i.l.ElementListenersActions [TestNG-tests-1] Find element By.xpath: //*[@name="search"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]}
+2024-07-09 20:04:58,107 INFO c.i.l.TestListeners [TestNG-tests-1] ==========================================================
+2024-07-09 20:04:58,108 INFO c.i.l.TestListeners [TestNG-tests-1] Test TestFirstUI started
+2024-07-09 20:04:58,109 INFO c.i.l.TestListeners [TestNG-tests-1] ==========================================================
+2024-07-09 20:04:58,278 INFO c.i.l.ElementListenersActions [TestNG-tests-3] Find element By.xpath: //a[@id="account_link"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //a[@id="account_link"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //a[@id="account_link"]]}
+2024-07-09 20:04:58,294 INFO c.i.l.ElementListenersActions [TestNG-tests-2] Find element By.xpath: //*[@name="search"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]}
+2024-07-09 20:05:05,311 INFO c.i.l.TestListeners [TestNG-tests-4] ==========================================================
+2024-07-09 20:05:05,311 INFO c.i.l.TestListeners [TestNG-tests-4] Test TestFourthUI started
+2024-07-09 20:05:05,312 INFO c.i.l.TestListeners [TestNG-tests-4] ==========================================================
+2024-07-09 20:05:06,238 INFO c.i.l.TestListeners [TestNG-tests-2] ==========================================================
+2024-07-09 20:05:06,239 INFO c.i.l.TestListeners [TestNG-tests-2] Test TestSecondUI started
+2024-07-09 20:05:06,239 INFO c.i.l.TestListeners [TestNG-tests-2] ==========================================================
+2024-07-09 20:05:13,513 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:05:13,514 INFO c.i.l.TestListeners [TestNG-tests-3] Test TestThirdUI failure
+2024-07-09 20:05:13,515 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:05:19,386 INFO c.i.l.ElementListenersActions [TestNG-tests-1] Find element By.xpath: //*[@name="search"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]}
+2024-07-09 20:05:19,404 INFO c.i.l.ElementListenersActions [TestNG-tests-2] Find element By.xpath: //*[@name="search"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]}
+2024-07-09 20:05:19,413 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:05:19,414 INFO c.i.l.TestListeners [TestNG-tests-3] Test TestThirdUI started
+2024-07-09 20:05:19,414 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:05:19,431 INFO c.i.l.ElementListenersActions [TestNG-tests-4] Find element By.xpath: //a[@id="account_link"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //a[@id="account_link"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //a[@id="account_link"]]}
+2024-07-09 20:05:20,599 INFO c.i.l.ElementListenersActions [TestNG-tests-1] Find element By.xpath: //*[@name="search"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]}
+2024-07-09 20:05:20,615 INFO c.i.l.ElementListenersActions [TestNG-tests-2] Find element By.xpath: //*[@name="search"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //*[@name="search"]]}
+2024-07-09 20:05:22,985 INFO c.i.l.TestListeners [TestNG-tests-1] ==========================================================
+2024-07-09 20:05:22,986 INFO c.i.l.TestListeners [TestNG-tests-1] Test TestFirstUI started
+2024-07-09 20:05:22,986 INFO c.i.l.TestListeners [TestNG-tests-1] ==========================================================
+2024-07-09 20:05:22,992 INFO c.i.l.TestListeners [TestNG-tests-2] ==========================================================
+2024-07-09 20:05:22,993 INFO c.i.l.TestListeners [TestNG-tests-2] Test TestSecondUI failure
+2024-07-09 20:05:22,994 INFO c.i.l.TestListeners [TestNG-tests-2] ==========================================================
+2024-07-09 20:05:28,002 INFO c.i.l.TestListeners [TestNG-tests-4] ==========================================================
+2024-07-09 20:05:28,003 INFO c.i.l.TestListeners [TestNG-tests-4] Test TestFourthUI started
+2024-07-09 20:05:28,004 INFO c.i.l.TestListeners [TestNG-tests-4] ==========================================================
+2024-07-09 20:05:28,204 INFO c.i.l.ElementListenersActions [TestNG-tests-3] Find element By.xpath: //a[@id="account_link"] Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //a[@id="account_link"]]} Decorated {[[RemoteWebDriver: chrome on Windows 10 (3898928c23378382609b758b970caa54)] -> xpath: //a[@id="account_link"]]}
+2024-07-09 20:05:34,525 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:05:34,527 INFO c.i.l.TestListeners [TestNG-tests-3] Test TestThirdUI started
+2024-07-09 20:05:34,527 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:05:34,826 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:05:34,826 INFO c.i.l.TestListeners [TestNG-tests-4] ==========================================================
+2024-07-09 20:05:34,826 INFO c.i.l.TestListeners [TestNG-tests-1] ==========================================================
+2024-07-09 20:05:34,826 INFO c.i.l.TestListeners [TestNG-tests-3] Test TestThirdUI started
+2024-07-09 20:05:34,826 INFO c.i.l.TestListeners [TestNG-tests-1] Test TestFirstUI failure
+2024-07-09 20:05:34,826 INFO c.i.l.TestListeners [TestNG-tests-4] Test TestFourthUI failure
+2024-07-09 20:05:34,827 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:05:34,827 INFO c.i.l.TestListeners [TestNG-tests-1] ==========================================================
+2024-07-09 20:05:34,827 INFO c.i.l.TestListeners [TestNG-tests-4] ==========================================================
+2024-07-09 20:05:34,853 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:05:34,855 INFO c.i.l.TestListeners [TestNG-tests-3] Test TestThirdUI started
+2024-07-09 20:05:34,857 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:05:34,887 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:05:34,888 INFO c.i.l.TestListeners [TestNG-tests-3] Test TestThirdUI started
+2024-07-09 20:05:34,888 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:05:34,902 INFO c.i.l.TestListeners [TestNG-tests-4] ==========================================================
+2024-07-09 20:05:34,903 INFO c.i.l.TestListeners [TestNG-tests-4] Test TestFourthUI failure
+2024-07-09 20:05:34,903 INFO c.i.l.TestListeners [TestNG-tests-4] ==========================================================
+2024-07-09 20:05:34,920 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:05:34,921 INFO c.i.l.TestListeners [TestNG-tests-3] Test TestThirdUI failure
+2024-07-09 20:05:34,921 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:05:34,924 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:05:34,925 INFO c.i.l.TestListeners [TestNG-tests-3] Test TestThirdUI failure
+2024-07-09 20:05:34,925 INFO c.i.l.TestListeners [TestNG-tests-3] ==========================================================
+2024-07-09 20:05:34,968 INFO c.i.l.TestListeners [TestNG-tests-1] ==========================================================
+2024-07-09 20:05:34,969 INFO c.i.l.TestListeners [TestNG-tests-1] Test TestFirstUI failure
+2024-07-09 20:05:34,969 INFO c.i.l.TestListeners [TestNG-tests-1] ==========================================================

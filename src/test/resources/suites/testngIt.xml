@@ -1,0 +1,56 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "SuiteUI" thread-count="1" parallel="tests">
+    <listeners>
+        <listener class-name = "com.idacademy.utils.retry.AnnotationTransformer"/>
+    </listeners>
+    <test name = "exampletest1">
+        <classes>
+            <class name = "com.idacademy.UITests.BodyTest">
+                <methods>
+                  <include name="TestFirstUI"/>
+                  <exclude name="TestSecondUI"/>
+                  <exclude name="TestThirdUI"/>
+                  <exclude name="TestFourthUI"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name = "exampletest2">
+        <classes>
+            <class name = "com.idacademy.UITests.BodyTest">
+                <methods>
+                    <exclude name="TestFirstUI"/>
+                    <include name="TestSecondUI"/>
+                    <exclude name="TestThirdUI"/>
+                    <exclude name="TestFourthUI"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name = "exampletest3">
+        <classes>
+            <class name = "com.idacademy.UITests.BodyTest">
+                <methods>
+                    <exclude name="TestFirstUI"/>
+                    <exclude name="TestSecondUI"/>
+                    <include name="TestThirdUI"/>
+                    <exclude name="TestFourthUI"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name = "exampletest4">
+        <classes>
+            <class name = "com.idacademy.UITests.BodyTest">
+                <methods>
+                    <exclude name="TestFirstUI"/>
+                    <exclude name="TestSecondUI"/>
+                    <exclude name="TestThirdUI"/>
+                    <include name="TestFourthUI"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
